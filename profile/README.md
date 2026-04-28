@@ -1,19 +1,21 @@
 # RingBooker
 
-RingBooker is building a voice AI agent for salons, spas, med spas, and appointment-based local businesses.
+RingBooker is an AI receptionist for nail salons, hair salons, 
+day spas, med spas, and beauty clinics.
 
-Our focus is simple: help beauty businesses capture missed calls, after-hours inquiries, peak-hour overflow, and booking intent without replacing the human team or changing the phone number customers already call.
+Built to capture missed calls, after-hours inquiries, peak-hour 
+overflow, and booking intent — on the current business number, 
+without replacing the human team or changing the workflow.
 
-RingBooker is designed around real phone-call workflows:
+Designed around real phone-call patterns in beauty businesses:
 
-- keep the current business phone number
-- missed calls
-- after-hours call coverage
-- peak-hour overflow
-- appointment requests
-- reschedules
-- service and consultation inquiries
-- human handoff
-- structured call summaries
+- Current number via call forwarding — no new number needed
+- After-hours call coverage
+- Peak-hour overflow
+- Booking and appointment capture
+- Reschedule and cancellation handling
+- Service, pricing, and consultation inquiries
+- Human handoff with full call context
+- Structured call summaries
 
 Learn more at [ringbooker.com](https://ringbooker.com).
